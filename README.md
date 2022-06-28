@@ -1,2 +1,2 @@
-# PowerBI_B_Darija
-PowerBI course with Moroccan Arabic Darija
+# Microsoft Data Analyst github
+Microsoft PowerBI course
